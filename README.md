@@ -1,17 +1,17 @@
-# imranrasheed### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Muhammad Imran Rasheed 👋
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m learning **Python, JavaScript & APIs**
+- 🔭 I’m currently working on **My Portfolio Website**
+- 🌱 I’m learning **Python, JavaScript & Web Development**
 - 👨‍💻 All of my projects are available at **my GitHub**
-- 💬 Ask me about **Mobile Development, Automation**
-- 📫 How to reach me: **your.email@gmail.com**
-- ⚡ Fun fact: **I build things for fun**
+- 💬 Ask me about **Technology & Hardwork**
+- 📫 How to reach me: **imranrasheedt@gmail.com**
+- ⚡ Fun fact: **Simple, positive & hardworking | Respect everyone, stay humble**
 
 #### 🛠️ Languages and Tools:
-`Python` `JavaScript` `GitHub API` `SerpAPI` `VS Code`
+`HTML` `CSS` `JavaScript` `Python` `GitHub` `VS Code`
 
 #### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranrasheedt-collab&show_icons=true&theme=dark)
 
 ---
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [imranrasheedt-collab](https://github.com/imranrasheedt-collab)
